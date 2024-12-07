@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C2 {
+public class CellularNetwork {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

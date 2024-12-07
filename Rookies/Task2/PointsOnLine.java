@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class B2 {
+public class PointsOnLine {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

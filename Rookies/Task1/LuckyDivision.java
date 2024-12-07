@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class C {
+public class LuckyDivision {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

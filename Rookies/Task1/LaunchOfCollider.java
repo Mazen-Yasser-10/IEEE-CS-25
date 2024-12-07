@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class D {
+public class LaunchOfCollider {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

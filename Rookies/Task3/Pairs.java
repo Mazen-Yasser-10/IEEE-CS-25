@@ -3,7 +3,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class E3 {
+public class Pairs {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

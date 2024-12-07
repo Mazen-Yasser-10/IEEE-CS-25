@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class E {
+public class Keyboard {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         char[][] chars ={
