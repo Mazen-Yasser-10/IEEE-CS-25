@@ -1,3 +1,4 @@
+package IEEECS25.Rookies.Task5;
 
 import java.util.Scanner;
 import java.util.Set;
